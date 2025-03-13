@@ -49,5 +49,4 @@ Creating and visualizing API documentation with an easy-to-use interface.
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cinzanos&show_icons=true&theme=dark)
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cinzanos&layout=compact&theme=dark)
-![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Cinzanos&repo=BlogAPI&theme=dark)
 
