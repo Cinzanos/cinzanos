@@ -44,7 +44,7 @@ Creating and visualizing API documentation with an easy-to-use interface.
 
 ## Contacts
 - 📧 Email: cinzanos123@gmail.com
-- 💼 GitHub: [Cinzanos]([(https://github.com/Cinzanos)])
+- 💼 GitHub: [Cinzanos](https://github.com/Cinzanos)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cinzanos&show_icons=true&theme=dark)
