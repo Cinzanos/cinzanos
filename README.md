@@ -43,7 +43,7 @@ Testing and debugging APIs to ensure correct requests and responses.
 Creating and visualizing API documentation with an easy-to-use interface.
 
 ## Contacts
-- 📧 Email: [cinzanos123@gmail.com](mailto:cinzanos123@gmail.com)
+- 📧 Email: cinzanos123@gmail.com
 - 💼 GitHub: [Cinzanos]([(https://github.com/Cinzanos)])
 
 ## GitHub Stats
