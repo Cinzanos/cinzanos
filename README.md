@@ -43,8 +43,8 @@ Testing and debugging APIs to ensure correct requests and responses.
 Creating and visualizing API documentation with an easy-to-use interface.
 
 ## Contacts
-- 📧 Email: [example@email.com](mailto:example@email.com)
-- 💼 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- 📧 Email: [cinzanos123@gmail.com](mailto:cinzanos123@gmail.com)
+- 💼 GitHub: [Your GitHub Profile]([(https://github.com/Cinzanos)])
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cinzanos&show_icons=true&theme=dark)
