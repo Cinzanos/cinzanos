@@ -36,14 +36,29 @@ I build SaaS platforms, CRM/ERP systems, web applications, cross-platform mobile
 
 ## 📱 Mobile Development
 
-- **Framework:** Flutter
-- **Language:** Dart
-- **Platforms:** iOS, Android
-- **State Management:** BLoC, Riverpod, Provider
-- **API Integration:** REST APIs, Authentication, WebSockets
-- **Local Storage:** SQLite and offline-first data management
-- **Mobile Engineering:** Background Tasks, Push Notifications, Performance Optimization
-- **Release Management:** App Store, Google Play, Automated Build and Release Pipelines
+### 🤖 Android Development
+- **Kotlin** — Native Android application development
+- Android application architecture and lifecycle
+- REST API integration and authentication
+- Local databases and offline-first applications
+- Background processing and push notifications
+
+### 🍎 iOS Development
+- **Swift** — Native iOS application development
+- iOS application lifecycle and architecture
+- REST API integration and authentication
+- Local data persistence and offline-first functionality
+- Background tasks and push notifications
+
+### 🦋 Cross-Platform Development
+- **Flutter & Dart** — Cross-platform applications for iOS and Android
+- State Management: BLoC, Riverpod, Provider
+- API integration and authentication
+- Local storage and offline-first architecture
+- Background tasks and push notifications
+- Performance optimization
+- App Store & Google Play deployment
+- Automated build and release pipelines
 
 ## 🗄️ Databases & Data Infrastructure
 
