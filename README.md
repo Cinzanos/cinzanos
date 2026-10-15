@@ -1,77 +1,137 @@
-## What I can do
+# 👨‍💻 About Me
 
-### 🐍 Python
-Programming in Python, creating scripts, working with libraries and frameworks like Django and FastAPI.
+Full-Stack Developer focused on Backend Engineering, Mobile Development, DevOps, System Architecture, and scalable software solutions.
 
-### 🌍 Django
-Web application development with Django, creating REST APIs, working with databases (ORM), and performance optimization.
+I build SaaS platforms, CRM/ERP systems, web applications, cross-platform mobile apps, APIs, microservices, and production infrastructure.
 
-### 🧩 PHP
-Development of backend applications, integration with databases, and working with modern PHP frameworks.
+## 💻 Programming Languages
 
-### ⚙️ Laravel
-Building scalable web applications with Laravel, managing migrations, authentication, queues, and API resources.
+- 🐍 **Python**
+- 🐘 **PHP**
+- ⚡ **JavaScript**
+- 🔷 **TypeScript**
+- 🐹 **Go (Golang)**
+- 🟣 **Kotlin**
+- 🍎 **Swift**
+- 🎯 **Dart**
+- 🗄️ **SQL**
 
-### ⚡ JavaScript
-Creating dynamic and interactive user interfaces, working with ES6+ features and asynchronous code.
+## ⚙️ Backend Development
 
-### ⚛️ React
-Developing modern, responsive front-end applications with React, managing state using hooks and context
+- **Python:** Django, FastAPI, Flask, Pydantic, SQLAlchemy, AsyncIO
+- **PHP:** Laravel, Symfony, Composer
+- **API Development:** REST, GraphQL, WebSockets, Swagger / OpenAPI
+- **Authentication & Authorization:** OAuth 2.0, OpenID Connect, JWT
+- **Architecture:** Microservices, Event-Driven Architecture, Distributed Systems, Multi-Tenant Applications
+- **Background Processing:** Celery, RabbitMQ, Apache Kafka
 
-### 💻 Git
-Experience with Git version control system, managing repositories on GitHub, team collaboration, and pull requests.
+## 🌐 Frontend Development
 
-### 🗄️ SQL
-Working with relational databases, creating and optimizing SQL queries, interacting with PostgreSQL.
+- **Frameworks:** React, Next.js, Vue.js
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Styling:** Tailwind CSS
+- **Build Tools:** Vite
+- **State Management:** Zustand, Redux Toolkit
+- **Frontend Testing:** Playwright, Vitest
 
-### 🐋 Docker
-Containerization of applications to simplify deployment and scaling.
+## 📱 Mobile Development
 
-### ☸️ Kubernetes
-Container orchestration for managing scalable applications.
+- **Framework:** Flutter
+- **Language:** Dart
+- **Platforms:** iOS, Android
+- **State Management:** BLoC, Riverpod, Provider
+- **API Integration:** REST APIs, Authentication, WebSockets
+- **Local Storage:** SQLite and offline-first data management
+- **Mobile Engineering:** Background Tasks, Push Notifications, Performance Optimization
+- **Release Management:** App Store, Google Play, Automated Build and Release Pipelines
 
-### ⚡ Redis
-Using Redis for data caching and improving application performance.
+## 🗄️ Databases & Data Infrastructure
 
-### ⚙️ CI/CD
-Setting up automated build, test, and deployment processes for projects.
+- **Relational Databases:** PostgreSQL, MySQL, SQLite
+- **NoSQL:** MongoDB
+- **Caching:** Redis
+- **Message Brokers:** RabbitMQ, Apache Kafka
+- **Search & Analytics:** Elasticsearch
+- **ORM & Data Access:** Django ORM, SQLAlchemy, Laravel Eloquent
 
-### 🖥️ Nginx
-Setting up and optimizing Nginx as a web server and reverse proxy.
+## 🐳 DevOps & Cloud Infrastructure
 
-### 🎨 HTML/CSS
-Creating responsive and stylish web interfaces with HTML and CSS.
+- **Containers:** Docker
+- **Orchestration:** Kubernetes, Helm
+- **Infrastructure as Code:** Terraform, Ansible
+- **CI/CD:** GitHub Actions, GitLab CI
+- **Web Servers & Reverse Proxy:** Nginx
+- **Operating Systems & Scripting:** Linux, Bash
+- **Cloud Platforms:** AWS, Google Cloud Platform, Microsoft Azure
+- **Deployment:** Production Deployment, Infrastructure Automation, Environment Management
 
-### 🕹️ Celery
-Organizing background tasks and scheduling processes to run at specific times.
+## 📊 Observability & Performance
 
-### 📧 Postman
-Testing and debugging APIs to ensure correct requests and responses.
+- **Metrics & Monitoring:** Prometheus, Grafana
+- **Instrumentation:** OpenTelemetry
+- **Distributed Tracing:** Request Tracing, Cross-Service Observability
+- **Logging:** Centralized Logging, Structured Logs
+- **Performance:** Load Testing, Profiling, Bottleneck Analysis
+- **Reliability:** Rate Limiting, Retries, Circuit Breakers, Idempotency, Fault Tolerance
 
-### 📚 Swagger
-Creating and visualizing API documentation with an easy-to-use interface.
+## 🔐 Security Engineering
 
-### 🏗️ CRM Systems & Multi-site Development
-Design and development of custom CRM systems, multi-site architectures, admin panels, and complex business solutions.
-Integration with third-party services, optimization for performance and scalability, and creation of modular systems that grow with business needs.
+- OWASP Security Principles
+- OAuth 2.0 & OpenID Connect
+- JWT Authentication
+- API Security
+- Key & Secret Management
+- Multi-Tenant Data Isolation
+- Application Security Testing
+- Secure Configuration and Access Control
 
-### 🧭 ERP & Business Automation
-Development of ERP systems, warehouse management, inventory, finance, and analytics modules to automate business processes and resource planning.
+## 🧪 Testing & Code Quality
 
-### 🛒 E-commerce & Marketplaces
-Building online stores, marketplaces, and product management systems with payment integration, order tracking, and analytics dashboards.
+- **Python:** Pytest
+- **PHP:** PHPUnit
+- **JavaScript / TypeScript:** Vitest, Playwright
+- Unit Testing
+- Integration Testing
+- End-to-End Testing
+- SOLID Principles
+- Design Patterns
+- Clean Architecture
+- Domain-Driven Design (DDD)
 
-### 🔌 API & Microservices
-Designing RESTful and GraphQL APIs, building microservice architectures, and ensuring smooth integration between distributed systems.
+## 🏗️ System Architecture & Engineering
 
-### 🧰 SaaS Platforms
-Creating Software-as-a-Service platforms with user management, subscription billing, and scalable backend logic.
+- RESTful API Design
+- GraphQL API Design
+- Microservices Architecture
+- Distributed Systems
+- Event-Driven Architecture
+- High-Availability Systems
+- System Design & Scalability
+- Asynchronous Processing
+- Database Design & Query Optimization
+- Multi-Tenant Architecture
+- Performance Optimization
+- CI/CD & Production Operations
 
-### 🧾 CMS & Custom Admin Panels
-Developing content management systems, administrative dashboards, and no-code/low-code tools for managing data and operations.
+## 🏢 Business & Product Development
 
-### 📊 Analytics & Monitoring Tools
-Building reporting systems, data visualization dashboards, and real-time monitoring tools for business metrics.
+- **CRM Systems** — Custom CRM platforms, workflows, integrations, and admin panels.
+- **ERP Systems** — Inventory, warehouse management, finance, and business process automation.
+- **SaaS Platforms** — Multi-tenant architecture, user management, subscriptions, and scalable backend services.
+- **E-commerce & Marketplaces** — Product catalogs, payments, order processing, and analytics.
+- **Multi-Site Applications** — Shared infrastructure, modular architectures, and centralized administration.
+- **Business Automation** — Custom dashboards, reporting systems, and third-party integrations.
+
+## 🔧 Development Tools
+
+- Git
+- GitHub
+- Postman
+- Swagger / OpenAPI
+- Composer
+- Linux CLI
+- Automated Testing Tools
+- CI/CD Pipelines
 
 ## Contacts
 - 📧 Email: cinzanos123@gmail.com
