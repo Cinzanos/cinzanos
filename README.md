@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code-2.svg" width="20" height="20" /> About Me
+# 👨‍💻 About Me
 
 Full-Stack Developer focused on Backend Engineering, Mobile Development, DevOps, System Architecture, and scalable software solutions.
 
