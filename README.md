@@ -6,15 +6,15 @@ I build SaaS platforms, CRM/ERP systems, web applications, cross-platform mobile
 
 ## 💻 Programming Languages
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" align="center" /> **Python**
-- 🐘 **PHP**
-- ⚡ **JavaScript**
-- 🔷 **TypeScript**
-- 🐹 **Go (Golang)**
-- 🟣 **Kotlin**
-- 🍎 **Swift**
-- 🎯 **Dart**
-- 🗄️ **SQL**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" /> **Python**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20" /> **PHP**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" /> **JavaScript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> **TypeScript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" height="20" /> **Go (Golang)**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="20" height="20" /> **Kotlin**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="20" height="20" /> **Swift**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="20" height="20" /> **Dart**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" /> **SQL**
 
 ## ⚙️ Backend Development
 
