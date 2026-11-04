@@ -1,4 +1,4 @@
-# 👨‍💻 About Me
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code-2.svg" width="20" height="20" style="vertical-align:-3px;filter:invert(67%) sepia(55%) saturate(1000%) hue-rotate(180deg);" /> About Me
 
 Full-Stack Developer focused on Backend Engineering, Mobile Development, DevOps, System Architecture, and scalable software solutions.
 
